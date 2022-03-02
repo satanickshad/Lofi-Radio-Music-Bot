@@ -1,1 +1,1 @@
-exports.GOOGLE_API_KEY = "AIzaSyC5kh2w3a-N3-InKViai6VPmdci7hQACc4";
+exports.GOOGLE_API_KEY = "AIzaSyC1-yQ-sNsvMoLjPedlYTLPdoDOeTRRJ2k";
